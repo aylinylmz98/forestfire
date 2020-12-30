@@ -9,7 +9,7 @@ you understand that factors affecting forest fires .
 You'll use jupyter noteboook 3.
 
 You’ll import some libraries needed for our data analysis. 
-#import numpy as np
+import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
